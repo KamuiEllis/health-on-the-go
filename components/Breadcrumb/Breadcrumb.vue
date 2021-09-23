@@ -1,6 +1,6 @@
 <template>
   <ul class="breadcrumb" :class="{ 'bg-transparent': transparent }">
-    <slot></slot>
+    <slot>df</slot>
   </ul>
 </template>
 <script>
