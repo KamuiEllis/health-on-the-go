@@ -9,6 +9,7 @@ export default {
   props: {
     transparent: {
       type: Boolean,
+      
       default: true
     }
   }
